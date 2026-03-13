@@ -557,7 +557,7 @@ body.dark-mode .rock-highlight {
 
 /* Light mode (Rock): ONLINE indicator below rock */
 body.light-mode .status-indicator {
-    top: calc(50% + 110px);
+    top: calc(50% + 150px);
     transform: translateX(-50%) translateY(0);
 }
 
